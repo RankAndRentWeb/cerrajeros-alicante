@@ -1,0 +1,193 @@
+{
+  "negocio": {
+    "nombre": "Pintores Valencia",
+    "nombre_corto": "PintoresVLC",
+    "nicho": "pintores",
+    "nicho_singular": "pintor",
+    "ciudad_principal": "Valencia",
+    "provincia": "Valencia",
+    "pais": "ES",
+    "telefono": "+34 960 000 000",
+    "telefono_display": "960 000 000",
+    "whatsapp": "34960000000",
+    "whatsapp_mensaje": "Hola, me gustaría solicitar un presupuesto de pintura.",
+    "email": "contacto@pintores-valencia.com",
+    "dominio": "https://pintores-valencia.com",
+    "direccion": {
+      "calle": null,
+      "cp": "46001",
+      "ciudad": "Valencia",
+      "provincia": "Valencia",
+      "pais": "España"
+    },
+    "coordenadas": {
+      "lat": 39.4699,
+      "lon": -0.3763
+    },
+    "horario": {
+      "semana": { "abre": "08:00", "cierra": "19:00" },
+      "sabado": { "abre": "09:00", "cierra": "14:00" },
+      "domingo": null
+    },
+    "tiempo_respuesta": "menos de 1 hora",
+    "anos_experiencia": 8,
+    "servicios_realizados": 650
+  },
+
+  "diseno": {
+    "color_fondo": "#FFFFFF",
+    "color_superficie": "#F7F5F2",
+    "color_borde": "#E8E4DF",
+    "color_texto": "#1A1A1A",
+    "color_texto_suave": "#6B6B6B",
+    "color_acento": "#C8102E",
+    "color_acento_hover": "#A50D26",
+    "fuente_principal": "Inter",
+    "logo_url": "/img/logo.svg"
+  },
+
+  "seo": {
+    "home": {
+      "title": "Pintores en Valencia – Presupuesto Gratis en 24h | Pintores Valencia",
+      "h1": "Pintores en Valencia con presupuesto gratis en 24 horas",
+      "meta_desc": "Pintores profesionales en Valencia. Pisos, locales y comunidades. Presupuesto gratuito en 24h, sin desplazamiento. Más de 650 trabajos realizados. ☎ 960 000 000",
+      "keywords": ["pintores valencia", "pintor valencia", "pintar piso valencia", "empresa pintura valencia"]
+    }
+  },
+
+  "servicios": [
+    {
+      "slug": "pintura-interior",
+      "nombre": "Pintura Interior",
+      "descripcion_corta": "Pisos, oficinas y locales comerciales con acabados de primera calidad.",
+      "descripcion": "Transformamos cualquier espacio interior con pintura de alta durabilidad. Trabajamos con plástica lisa, satinada y acabados decorativos en viviendas, oficinas y locales de Valencia.",
+      "icono": "interior",
+      "seo": {
+        "title": "Pintura Interior en Valencia – Pisos y Locales | Pintores Valencia",
+        "h1": "Pintura interior en Valencia para pisos, locales y oficinas",
+        "meta_desc": "Pintores especializados en interiores en Valencia. Acabados en plástico liso, satinado y decorativo. Presupuesto sin compromiso en 24h. ☎ 960 000 000"
+      }
+    },
+    {
+      "slug": "pintura-exterior",
+      "nombre": "Pintura Exterior",
+      "descripcion_corta": "Fachadas y comunidades de propietarios en toda la provincia.",
+      "descripcion": "Expertos en pintura de fachadas, comunidades de propietarios y naves industriales. Usamos pinturas de alto rendimiento resistentes al clima mediterráneo de Valencia.",
+      "icono": "exterior",
+      "seo": {
+        "title": "Pintura Exterior en Valencia – Fachadas y Comunidades | Pintores Valencia",
+        "h1": "Pintura exterior en Valencia: fachadas y comunidades de vecinos",
+        "meta_desc": "Pintamos fachadas y comunidades en Valencia con garantía. Pinturas resistentes al sol y la humedad. Presupuesto gratuito para tu comunidad. ☎ 960 000 000"
+      }
+    },
+    {
+      "slug": "pintura-comunidades",
+      "nombre": "Comunidades de Propietarios",
+      "descripcion_corta": "Zonas comunes, escaleras y garajes para comunidades de toda Valencia.",
+      "descripcion": "Servicio especializado para administradores de fincas y presidentes de comunidades. Gestión completa del proyecto, desde el presupuesto hasta la limpieza final.",
+      "icono": "comunidades",
+      "seo": {
+        "title": "Pintura Comunidades Valencia – Escaleras y Zonas Comunes | Pintores Valencia",
+        "h1": "Pintura para comunidades de propietarios en Valencia",
+        "meta_desc": "Pintamos escaleras, garajes y zonas comunes en comunidades de Valencia. Presupuestos para administradores de fincas. Sin molestias para los vecinos. ☎ 960 000 000"
+      }
+    }
+  ],
+
+  "ciudades": [
+    {
+      "slug": "valencia",
+      "nombre": "Valencia",
+      "provincia": "Valencia",
+      "lat": 39.4699,
+      "lon": -0.3763,
+      "descripcion_local": "Cubrimos todos los barrios de Valencia: Ruzafa, L'Eixample, Benimaclet, Campanar, Patraix, Jesús y el centro histórico.",
+      "barrios_destacados": ["Ruzafa", "L'Eixample", "Benimaclet", "Campanar", "Patraix"],
+      "cp_principales": ["46001", "46002", "46003", "46004", "46005", "46006", "46007", "46008", "46009", "46010"]
+    },
+    {
+      "slug": "paterna",
+      "nombre": "Paterna",
+      "provincia": "Valencia",
+      "lat": 39.5023,
+      "lon": -0.4411,
+      "descripcion_local": "Servicio de pintura en Paterna, La Canyada, Lloma Llarga y El Molí. Zona industrial y residencial.",
+      "barrios_destacados": ["La Canyada", "Lloma Llarga", "El Molí", "Fuente del Jarro"],
+      "cp_principales": ["46980"]
+    },
+    {
+      "slug": "torrent",
+      "nombre": "Torrent",
+      "provincia": "Valencia",
+      "lat": 39.4335,
+      "lon": -0.4669,
+      "descripcion_local": "Pintores en Torrent para viviendas unifamiliares, bloques de pisos y comunidades en toda la ciudad.",
+      "barrios_destacados": ["Centro", "L'Alter", "La Bèrnia", "El Vedat"],
+      "cp_principales": ["46900"]
+    }
+  ],
+
+  "faqs": [
+    {
+      "pregunta": "¿Cuánto cuesta pintar un piso en Valencia?",
+      "respuesta": "El precio de pintar un piso en Valencia depende de los metros cuadrados y el estado de las paredes. Como referencia, un piso de 90m² con dos manos de pintura plástica cuesta entre 700 y 1.200€, incluyendo materiales. Solicita tu presupuesto gratuito y te damos un precio exacto en 24 horas."
+    },
+    {
+      "pregunta": "¿Ofrecéis presupuesto gratuito?",
+      "respuesta": "Sí, el presupuesto es completamente gratuito y sin ningún compromiso. Nos contactas por teléfono o formulario, acordamos una visita y te entregamos el presupuesto detallado en menos de 24 horas."
+    },
+    {
+      "pregunta": "¿Cuánto tarda en secarse la pintura?",
+      "respuesta": "La pintura plástica estándar seca al tacto en 1-2 horas y está completamente seca a las 24 horas. Las pinturas especiales o esmaltes pueden requerir 48-72 horas. Durante el proceso protegemos todos los muebles y suelos con material de protección."
+    },
+    {
+      "pregunta": "¿Trabajáis en comunidades de propietarios?",
+      "respuesta": "Sí, somos especialistas en comunidades de propietarios. Trabajamos habitualmente con administradores de fincas en Valencia. Facilitamos toda la documentación necesaria para la junta y coordinamos el trabajo para minimizar las molestias a los vecinos."
+    },
+    {
+      "pregunta": "¿Incluís los materiales en el presupuesto?",
+      "respuesta": "El presupuesto incluye materiales, mano de obra y limpieza final. Usamos marcas de primera calidad como Bruguer, Valentine o Pinturas Montó. No hay costes ocultos: el precio acordado es el precio final."
+    }
+  ],
+
+  "testimonios": [
+    {
+      "nombre": "María López",
+      "ciudad": "Valencia",
+      "barrio": "Ruzafa",
+      "texto": "Pintaron todo el piso en dos días, muy limpios y puntuales. El acabado es perfecto. Repetiré sin duda.",
+      "estrellas": 5,
+      "servicio": "Pintura interior"
+    },
+    {
+      "nombre": "Carlos Martínez",
+      "ciudad": "Paterna",
+      "barrio": "La Canyada",
+      "texto": "Presupuesto en 24 horas como prometieron. Trabajo impecable en la fachada de la comunidad. El precio fue el acordado, sin sorpresas.",
+      "estrellas": 5,
+      "servicio": "Pintura exterior"
+    },
+    {
+      "nombre": "Ana Fernández",
+      "ciudad": "Torrent",
+      "barrio": "Centro",
+      "texto": "Muy profesionales. Explicaron bien qué tipo de pintura era mejor para nuestro caso y el resultado superó las expectativas.",
+      "estrellas": 5,
+      "servicio": "Pintura interior"
+    }
+  ],
+
+  "garantias": [
+    "Presupuesto gratuito en menos de 24 horas",
+    "Precio cerrado: sin costes ocultos",
+    "Materiales de primera calidad incluidos",
+    "Limpieza completa al finalizar",
+    "Garantía de 2 años en mano de obra"
+  ],
+
+  "schema": {
+    "type": "HousePainter",
+    "price_range": "€€",
+    "same_as": []
+  }
+}
